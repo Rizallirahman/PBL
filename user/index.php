@@ -17,7 +17,7 @@
   <div class="bg-dark p-4">
         <ul class="navbar-nav text-uppercase mx-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="">Home</a>
+            <a class="nav-link" href=""></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="category.php">Category</a>
